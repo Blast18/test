@@ -8,7 +8,7 @@ int main() {
 	cout << "choisir nombre" << endl;
 	cin >> a;
 	cout << "la puissance de " << a << " est " << puissance(a) << endl;
-	b = multplication (a,a);
+	b = multiplication (a,a);
 	cout<<b;
 	system("pause");
 	return 0;

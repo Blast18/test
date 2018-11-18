@@ -6,5 +6,5 @@ int puissance(int a) {
 }
 
 int multiplication (int a, int b) {
-	return int c = a * b;
+	return a * b;
 }
