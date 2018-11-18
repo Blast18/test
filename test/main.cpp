@@ -10,7 +10,7 @@ int main() {
 	cin >> a;
 	cout << "la puissance de " << a << " est " << puissance(a) << endl;
 	b = multiplication (a,a);
-	cout<<b;
+	cout<<b<<endl;
 	cout << addition(a,b)<<endl;
 	system("pause");
 	return 0;
