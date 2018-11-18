@@ -12,6 +12,7 @@ int main() {
 	b = multiplication (a,a);
 	cout<<b<<endl;
 	cout << addition(a,b)<<endl;
+	cout << "la tele c'est nul" << endl;
 	system("pause");
 	return 0;
 }
