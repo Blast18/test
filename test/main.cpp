@@ -11,7 +11,7 @@ int main() {
 	cout << "la puissance de " << a << " est " << puissance(a) << endl;
 	b = multiplication (a,a);
 	cout<<b;
-	cout << addition(a,b);
+	cout << addition(a,b)<<endl;
 	system("pause");
 	return 0;
 }
