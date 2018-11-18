@@ -8,3 +8,7 @@ int puissance(int a) {
 int multiplication (int a, int b) {
 	return a * b;
 }
+
+int addition ( int a, int b) {
+	return a + b;
+}
